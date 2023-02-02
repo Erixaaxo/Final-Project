@@ -11,7 +11,7 @@ Kidz Bop has been a popular kid singing group that covers popular songs and cens
 ## Related Work
 
 ## The Dataset
-[Kidz Bop Datset](https://github.com/the-pudding/data/tree/master/kidz-bop)
+[Kidz Bop Dataset](https://github.com/the-pudding/data/tree/master/kidz-bop)
 
 ## Implications
 
