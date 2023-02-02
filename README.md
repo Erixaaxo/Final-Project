@@ -9,9 +9,11 @@ Kidz Bop, music, censorship, kids, cursing
 
 ## Introduction
 
-Kidz Bop has been a popular kid singing group for years, covering popular songs and changing lyrics to make them kid-friendly. They have been around for many generations of childhoods and it is always fun hearing what popular songs they covered next. But it begs the questions: **Why do they censor certain lyrics? What gets censored the most? And does it bring harm that they censor so much of the song that it takes away the meaning? These questions are important as censorship has always been a heavy topic in the media, but Kidz Bop has never been questioned on their own censorship.**
+Kidz Bop has been a popular kid singing group for years, covering popular songs and changing lyrics to make them kid-friendly. They have been around for many generations of childhoods and it is always fun hearing what popular songs they covered next. But it begs the questions: Why do they censor certain lyrics? What gets censored the most? And does it bring harm that they censor so much of the song that it takes away the meaning? These questions are important as censorship has always been a heavy topic in the media, but Kidz Bop has never been questioned on their own censorship.
 
 ## Related Work
+
+The topic is censorship. Censorship is defined as the suppression of words, images, and ideas due to the fact they might be seen as offensive ["(ACLU 2023)"](https://www.aclu.org/other/what-censorship). Censorship has known to be harmful to kids in the learning environment and also in the real world too. For example, sex education is not taught in every school. This becomes an issue in the real world too when people and young adults do not know safety protocols that keep them safe and healthy, according to ["Everyday Health"](https://www.everydayhealth.com/kids-health/censorship-schools-effects-on-our-children/). Within censorship in music, may laswsuits have come around regarding if music should be censored. Luckily, the Supreme Court ruled in favor of the artists as music is a form of free speech and should be protected as long as it does not promote hate. ["(Fisher 2023)"](https://www.mtsu.edu/first-amendment/article/1132/music-censorship)
 
 ## The Dataset
 
