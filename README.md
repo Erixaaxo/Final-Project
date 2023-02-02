@@ -5,7 +5,7 @@ by: Erica Bergen, Sophia Mangrubang, Joshua Chow, Nima Rahman
 
 ## Keywords
 
-Kidz Bop, music, censorship
+Kidz Bop, music, censorship, kids
 
 ## Introduction
 
