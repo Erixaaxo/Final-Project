@@ -16,7 +16,7 @@ Kidz Bop has been a popular kid singing group for years, covering popular songs 
 ## The Dataset
 
 We found our data from the pudding dataset.
-  [Kidz Bop Dataset](https://github.com/the-pudding/data/tree/master/kidz-bop)
+[Kidz Bop Dataset](https://github.com/the-pudding/data/tree/master/kidz-bop)
 
 The data was collected by Jan Diehm. She collected the data using the Genius API, Spotify API, R, as well as manual wrangling. The data was collected for the pudding arctile, ["Just how does Kidz Bop censor songs?"](https://pudding.cool/2020/04/kidz-bop/), which aims to highlight just what words are being censored, what they're replaced with, and what category of bad word they are. We will be focusing on two of the datasets within the project, KB_censored-lyrics (10 columns and 1354 rows) and KB_word-overview (5 columns and 227 rows).
 
