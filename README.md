@@ -28,3 +28,7 @@ The censorship of popular songs for Kidz Bop has several implications for techno
 
 
 ## Challenges & Limitations
+
+What challenges or limitations might you need to address with your project idea more broadly? Briefly discuss. (at least 150 words)
+
+Though our topic is relatively light-hearted, in our project we would have to address the challenge of censorship. We have to ask what amount of censorship is the right amount? With too little censorship, the songs may have a negative influence on the child audience if they're constantly listening to songs about substance abuse or violence. However, with too much censorship, Kidz Bop may be keeping their audience too sheltered or closed-minded by censoring words such as "transgender" and "pray." In addition, our group would have to address the limitations of the dataset we have. We have no way of telling how or what criteria Kidz Bop censors the lyrics off of. Is it an algorithm, one person, or a whole team of people selecting which lyrics censor? What is their reasoning behind the censorship? Limitations in the data like that would prevent our group from accurately addressing the challenge of censorship.
