@@ -3,6 +3,8 @@ by: Erica Bergen, Sophia Mangrubang, Joshua Chow, Nima Rahman
 
 ## Abstract
 
+Overall, our final project aims to address the discrepancy regarding the censorship of foul language within child parody music (kidz bop). We will analyze data pertaining to the type of language that is censored within a given song, the artist, and why the word was censored. All in hopes to reach a conclusion that will help answer our research questions listed in the introduction. 
+
 ## Keywords
 
 Kidz Bop, music, censorship, kids, cursing
@@ -23,11 +25,8 @@ We found our data from the pudding dataset.
 The data was collected by Jan Diehm. She collected the data using the Genius API, Spotify API, R, as well as manual wrangling. The data was collected for the pudding arctile, ["Just how does Kidz Bop censor songs?"](https://pudding.cool/2020/04/kidz-bop/), which aims to highlight just what words are being censored, what they're replaced with, and what category of bad word they are. We will be focusing on two of the datasets within the project, KB_censored-lyrics (10 columns and 1354 rows) and KB_word-overview (5 columns and 227 rows).
 
 ## Implications
->
-Assuming you answer your research questions, briefly describe the expected or possible implications for technologists, designers, and policymakers. (at least 150 words)
 
-The censorship of popular songs for Kidz Bop has several implications for technologiests, design.
-
+The censorship of popular songs by Kidz Bop has several implications for technologists, designers, and policymakers in the future. For one, the given data has the power to make music producers and publishers rethink their censorship strategies. To explain, the analysis of this data will allow us to see if censorship of certain types of foul language is truly beneficial to the developing mind of a child. Whether we are proven right or wrong, our conclusion will enable producers of kidz bop to perhaps take a more progressive approach with their censorship methods. As for technologists and designers, I feel that the answer to our research questions will influence technologists and designers to fully understand how the use of swear words or foul language within applications affects child behavior. Hopefully enabling designers to become more in tune with the youth to give them user experiences that are more in touch with today’s standard values. Finally, I feel that policymakers would be faced with the most beneficial implications from the revealing of our research questions as they are the ones that will incite real change. For example, policymakers can set new more reformist policies that combat censorship and promote a more genuine and free music experience for children. 
 
 ## Challenges & Limitations
 
